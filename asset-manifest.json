@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/utilexon/static/css/main.f855e6bc.css",
+    "main.js": "/utilexon/static/js/main.4baef3cc.js",
+    "static/js/453.2a82e7ac.chunk.js": "/utilexon/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/utilexon/index.html",
+    "main.f855e6bc.css.map": "/utilexon/static/css/main.f855e6bc.css.map",
+    "main.4baef3cc.js.map": "/utilexon/static/js/main.4baef3cc.js.map",
+    "453.2a82e7ac.chunk.js.map": "/utilexon/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4baef3cc.js"
+  ]
+}
